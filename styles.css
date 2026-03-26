@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: slategrey;
+  color: white;
+}
+
+header, footer {
+  background: darkblue;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+}
+
+main {
+  padding: 1rem;
+}
+
+h2 {
+  color:ghostwhite ;
+}
+
+ul {
+  list-style-type: square;
+  padding-left: 1.5rem;
+}
